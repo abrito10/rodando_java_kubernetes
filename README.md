@@ -5,3 +5,7 @@
   * Java16
   * Docker
   * Kubernates
+  * Kubectl
+  * Minikube
+  * VirtualBox
+  * OpenShift
